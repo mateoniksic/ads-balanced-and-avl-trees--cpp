@@ -1,6 +1,12 @@
-# ads-balanced-and-avl-trees
+# BUILD BALANCED AND AVL TREE FROM DATA
 
 The program loads data from .txt file and builds balanced and avl tree based on unique key.
+
+## Instructions to start the application
+1. Clone (download) the repository
+2. Run `make Source.cpp` in shell
+
+## Application preview
 
 ```c++
 ============================================================
