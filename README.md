@@ -4,7 +4,7 @@ The program loads data from .txt file and builds balanced and avl tree based on 
 
 ## Instructions to start the application
 1. Clone (download) the repository
-2. Run `make Source.cpp` in shell
+2. Run `./App` in linux shell
 
 ## Application preview
 
