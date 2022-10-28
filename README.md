@@ -1,4 +1,4 @@
-# BUILD BALANCED AND AVL TREE FROM DATA
+# ADS: BALANCED AND AVL TREES
 
 The program loads data from .txt file and builds balanced and avl tree based on unique key.
 
