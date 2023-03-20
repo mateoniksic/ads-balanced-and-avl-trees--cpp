@@ -1,12 +1,12 @@
-# ADS: BALANCED AND AVL TREES
+![Social Preview](https://user-images.githubusercontent.com/57192709/226374648-a04cd1de-f0bc-4405-960c-2982e35a6538.png)
+# What is project balanced and avl trees?
+Project balanced and avl trees is a program that loads data from .txt file and builds balanced and avl trees based on unique key.
 
-The program loads data from .txt file and builds balanced and avl tree based on unique key.
+# How to start the application?
+1. **Clone repository**
+2. **Run command:** `./App` in linux shell`
 
-## Instructions to start the application
-1. Clone (download) the repository
-2. Run `./App` in linux shell
-
-## Application preview
+# Sneak peek
 
 ```c++
 ============================================================
