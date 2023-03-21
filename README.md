@@ -1,4 +1,4 @@
-![Social Preview](https://user-images.githubusercontent.com/57192709/226374648-a04cd1de-f0bc-4405-960c-2982e35a6538.png)
+![Social Preview](https://user-images.githubusercontent.com/57192709/226617614-f14b1421-24a1-4ab3-bb85-0c2033356b6f.png)
 # What is project balanced and avl trees?
 Project balanced and avl trees is a program that loads data from .txt file and builds balanced and avl trees based on unique key.
 
