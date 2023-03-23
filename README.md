@@ -4,7 +4,7 @@ Project balanced and avl trees is a program that loads data from .txt file and b
 
 # How to start the application?
 1. **Clone repository**
-2. **Run command:** `./App` in linux shell`
+2. **Run command:** `./App`
 
 # Sneak peek
 
